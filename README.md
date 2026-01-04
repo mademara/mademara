@@ -1,6 +1,12 @@
-## Halo 👋
+Halo 👋
+==
+🌱 Saya seorang peserta di [program Dicoding Bootcamp Batch 11](https://bootcamp.dicoding.com/).
+--
+- 😁 Saya tidak memiliki pengalaman di bidang IT sebelumnya.
+- 🔥 Namun dengan tekat dan usaha yang kuat, saya yakin saya bisa menjadi seorang web developer.
 
-- 🌱 Saya seorang peserta di [program Dicoding Bootcamp Batch 11](https://bootcamp.dicoding.com/)
+⚡ Tiada hal yang tak bisa di pelajari
+--
 <!--
 **mademara/mademara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
