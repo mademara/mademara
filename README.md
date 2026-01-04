@@ -1,5 +1,6 @@
-## Hi there 👋
+## Halo 👋
 
+- 🌱 Saya seorang peserta di [program Dicoding Bootcamp Batch 11](https://bootcamp.dicoding.com/)
 <!--
 **mademara/mademara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
