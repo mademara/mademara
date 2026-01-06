@@ -17,6 +17,3 @@ Halo 👋
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mademara&layout=compact&theme=algolia"/>
 </a>
 </p>
-
-⚡ Tiada hal yang tak bisa di pelajari
---
