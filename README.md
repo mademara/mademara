@@ -2,11 +2,9 @@ Halo 👋
 ==
 🌱 Saya seorang peserta di [program Dicoding Bootcamp Batch 11](https://bootcamp.dicoding.com/).
 --
-- 😁 Saya tidak memiliki pengalaman di bidang IT sebelumnya.
-- 🔥 Namun dengan tekat dan usaha yang kuat, saya yakin saya bisa menjadi seorang web developer.
-
 📚 Progres pengalaman belajar di [Dicoding Academy](https://www.dicoding.com/)
 --
+- 📚Saat ini, saya sedang belajar Dasar pemrograman web
 - 📔[Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://github.com/user-attachments/files/24420792/sertifikat_course_237_5569313_040126153233.pdf)
 - 🖥[Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://github.com/user-attachments/files/24420805/sertifikat.programing.logic.pdf)
 - 🐱‍💻[Belajar dasar git dengan github](https://github.com/user-attachments/files/24420808/sertifikat.belajar.dasar.git.dengan.github.pdf)
