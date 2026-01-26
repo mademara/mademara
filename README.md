@@ -2,9 +2,10 @@ Halo 👋
 ==
 🌱 Saya seorang peserta di [program Dicoding Bootcamp Batch 11](https://bootcamp.dicoding.com/).
 --
-📚 Progres pengalaman belajar di [Dicoding Academy](https://www.dicoding.com/)
+📚 Progres pengalaman belajar di [Dicoding Academy](https://www.dicoding.com/users/mademara/academies)
 --
-- 📚Saat ini, saya sedang belajar Dasar pemrograman web
+- 📚Saat ini saya sedang belajar Dasar Pemrograman JavaScript
+- 🧾[Belajar Dasar Pemrograman Web](https://github.com/user-attachments/files/24851928/sertifikat_course_123_5569313_200126190443.pdf)
 - 📔[Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://github.com/user-attachments/files/24420792/sertifikat_course_237_5569313_040126153233.pdf)
 - 🖥[Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://github.com/user-attachments/files/24420805/sertifikat.programing.logic.pdf)
 - 🐱‍💻[Belajar dasar git dengan github](https://github.com/user-attachments/files/24420808/sertifikat.belajar.dasar.git.dengan.github.pdf)
